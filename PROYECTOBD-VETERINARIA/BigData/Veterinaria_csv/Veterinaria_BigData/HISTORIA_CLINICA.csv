@@ -1,0 +1,42 @@
+﻿id_historia;id_cita;diagnostico;observaciones;fecha_registro
+1;1;Estado de salud óptimo;Se recomienda dieta balanceada y ejercicio diario.;2024-10-01
+2;2;Dermatitis alérgica leve;Se prescribe shampoo medicado y antihistamínico oral.;2024-10-05
+3;3;Displasia de cadera incipiente;Se recomienda control cada 3 meses y evitar ejercicio brusco.;2024-10-08
+4;4;Esterilización exitosa;Paciente estable. Reposo por 7 días.;2024-10-12
+5;5;Vacunas al día;Se aplicaron vacunas anuales sin reacciones adversas.;2024-10-15
+6;7;Estado de salud estable;Se recomienda continuar controles periódicos.;2024-11-10
+7;8;Gastritis leve;Se recomienda dieta blanda durante cinco días.;2024-11-18
+8;9;Displasia de cadera en seguimiento;Se mantiene control periódico.;2024-11-25
+9;10;Dermatitis controlada;Se mantiene tratamiento preventivo.;2024-12-08
+10;11;Dermatitis leve;Se prescribe tratamiento tópico.;2024-12-15
+11;12;Estado de salud normal;Se recomienda control anual.;2024-12-20
+12;13;Evolución postoperatoria favorable;Paciente recuperado satisfactoriamente.;2025-01-12
+13;14;Estado de salud normal;Se recomienda continuar controles.;2025-01-18
+14;15;Molestia muscular leve;Se recomienda reposo y observación.;2025-01-25
+15;16;Problema digestivo controlado;Se recomienda mantener alimentación balanceada.;2025-02-15
+16;17;Dermatitis leve;Se indica tratamiento dermatológico.;2025-02-22
+17;18;Estado de salud normal;Se mantiene seguimiento preventivo.;2025-03-10
+18;19;Vacunación preventiva;Sin reacciones posteriores a la aplicación.;2025-03-16
+19;20;Estado de salud normal;Se recomienda control periódico.;2025-03-22
+20;21;Displasia de cadera en seguimiento;Se recomienda evitar actividad física intensa.;2025-05-11
+21;22;Dermatitis controlada;La evolución es favorable.;2025-05-20
+22;23;Vacunación preventiva;Se aplicaron vacunas sin complicaciones.;2025-05-28
+23;24;Estado de salud estable;Se recomienda control periódico.;2025-07-05
+24;25;Molestia muscular controlada;Se recomienda actividad moderada.;2025-07-18
+25;26;Problema dermatológico leve;Se recomienda tratamiento preventivo.;2025-07-25
+26;27;Dermatitis controlada;Se mantiene seguimiento.;2025-09-06
+27;28;Estado de salud normal;Se recomienda continuar controles.;2025-09-14
+28;29;Estado de salud normal;Se mantiene seguimiento preventivo.;2025-09-22
+29;30;Estado de salud estable;Se recomienda control periódico.;2025-11-08
+30;31;Dermatitis controlada;Se mantiene tratamiento preventivo.;2025-11-15
+31;32;Estado de salud normal;Se recomienda continuar controles.;2025-11-22
+32;33;Estado de salud estable;Se mantiene seguimiento preventivo.;2026-01-10
+33;34;Molestia muscular controlada;Se recomienda continuar controles.;2026-01-18
+34;35;Estado de salud normal;Se recomienda control anual.;2026-01-25
+35;36;Vacunación preventiva;Se aplicó vacuna sin complicaciones.;2026-03-07
+36;37;Dermatitis controlada;Se mantiene seguimiento dermatológico.;2026-03-15
+37;38;Estado de salud normal;Se recomienda seguimiento preventivo.;2026-03-22
+38;39;Problema digestivo controlado;Se recomienda dieta balanceada.;2026-05-09
+39;40;Estado de salud normal;Se recomienda continuar controles.;2026-05-20
+40;41;Dermatitis controlada;Se mantiene seguimiento.;2026-07-11
+41;42;Estado de salud estable;Se recomienda continuar controles periódicos.;2026-09-20

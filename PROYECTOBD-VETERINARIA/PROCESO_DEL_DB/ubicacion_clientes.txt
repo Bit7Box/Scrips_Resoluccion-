@@ -1,0 +1,13 @@
+id_cliente|pais|distrito
+1|Perú|Surco
+2|Perú|Miraflores
+3|Perú|San Isidro
+4|Perú|Lima Cercado
+5|Perú|La Molina
+6|Perú|Surco
+7|Perú|Los Olivos
+8|Perú|Breña
+9|Perú|San Borja
+10|Perú|Lince
+11|Perú|Lima Cercado
+12|Perú|San Martín de Porres
