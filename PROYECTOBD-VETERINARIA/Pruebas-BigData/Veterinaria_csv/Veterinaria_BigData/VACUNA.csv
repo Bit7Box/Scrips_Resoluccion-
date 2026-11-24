@@ -1,0 +1,21 @@
+﻿id_vacuna;id_mascota;id_veterinario;nombre_vacuna;fecha_aplicacion;proxima_dosis
+1;1;1;Parvovirus + Distemper;2024-10-01;2025-10-01
+2;3;1;Rabia;2024-10-08;2025-10-08
+3;5;1;Polivalente canina;2024-10-15;2025-10-15
+4;2;3;Triple felina;2024-10-05;2025-10-05
+5;4;2;Leucemia felina;2024-10-12;2025-10-12
+6;7;2;Vacuna séxtuple canina;2024-11-18;2025-11-18
+7;8;3;Triple felina;2024-12-15;2025-12-15
+8;9;1;Rabia;2024-12-20;2025-12-20
+9;10;1;Vacuna séxtuple canina;2025-01-18;2026-01-18
+10;11;2;Rabia;2025-01-25;2026-01-25
+11;12;3;Triple felina;2025-02-22;2026-02-22
+12;13;1;Vacuna séxtuple canina;2025-03-22;2026-03-22
+13;7;2;Rabia;2025-07-05;2026-07-05
+14;10;1;Rabia;2025-05-28;2026-05-28
+15;11;2;Vacuna séxtuple canina;2025-07-18;2026-07-18
+16;8;3;Leucemia felina;2025-09-06;2026-09-06
+17;13;1;Rabia;2025-09-22;2026-09-22
+18;1;1;Vacuna séxtuple canina;2026-03-07;2027-03-07
+19;7;2;Vacuna séxtuple canina;2026-05-09;2027-05-09
+20;8;3;Triple felina;2026-07-11;2027-07-11

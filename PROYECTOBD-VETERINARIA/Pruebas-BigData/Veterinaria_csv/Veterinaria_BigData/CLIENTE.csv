@@ -1,0 +1,13 @@
+﻿id_cliente;nombre;apellido;telefono;email;direccion
+1;Carlos;Mendoza;987654321;carlos.mendoza@gmail.com;Av. Los Pinos 123, Lima
+2;Lucía;Ramírez;976543210;lucia.ramirez@gmail.com;Jr. Las Flores 456, Lima
+3;Jorge;Torres;965432109;jorge.torres@gmail.com;Calle Real 789, Lima
+4;Ana;Vargas;954321098;ana.vargas@gmail.com;Av. Colonial 321, Lima
+5;Miguel;Quispe;943210987;miguel.quispe@gmail.com;Jr. Tacna 654, Lima
+6;Fernando;Castillo;932111111;fernando.castillo@gmail.com;Av. Primavera 125, Lima
+7;Carla;Paredes;931222222;carla.paredes@gmail.com;Jr. Los Olivos 245, Lima
+8;Daniel;Rojas;930333333;daniel.rojas@gmail.com;Av. Brasil 580, Lima
+9;Valeria;Flores;929444444;valeria.flores@gmail.com;Calle Los Cedros 315, Lima
+10;Ricardo;Navarro;928555555;ricardo.navarro@gmail.com;Av. Arequipa 720, Lima
+11;Paola;Mendoza;927666666;paola.mendoza@gmail.com;Jr. Amazonas 410, Lima
+12;Sergio;Vega;926777777;sergio.vega@gmail.com;Av. Universitaria 890, Lima
